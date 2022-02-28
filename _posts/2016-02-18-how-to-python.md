@@ -37,7 +37,7 @@ excel->pg
 现实图片小测试
 
 ## spider
-网络爬虫实验抓去小电影和小黄图[[坏笑](https://github.com/bblu/algopython/tree/master/spider/test)]
+网络爬虫
 
 ## tool
 生成ID末尾的校验码
